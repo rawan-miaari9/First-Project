@@ -68,7 +68,7 @@ nav li{
     background:#162453;
 
     padding:10px 30px;
-     clip-path: polygon(
+     /* clip-path: polygon(
         0% 0%,       /* Top-Left corner */
         100% 0%,     /* Top-Right corner */
         100% 85%,    /* Right side, right before it angles down */
@@ -77,8 +77,8 @@ nav li{
         25% 100%,    /* Bottom left point of the center block */
         22% 85%,     /* Inner left point of the angled slope */
         0% 85%       /* Left side, right before it angles up */
-    );
-}
+    );*/
+} 
 
 .hero-content{
 
